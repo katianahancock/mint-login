@@ -7,19 +7,20 @@ body {
     width: 318px;
     height: 626px;
     background-color: white;
-    padding: 30px;
+    padding: 30px 30px 30px 30px;
     border-style: solid;
     border-width: 1px;
     border-color: rgb(199, 199, 199);
     border-radius: 2px;
     border-bottom-width: 0px;
+    line-height: 1.1;
 }
 
 #greyBox {
     width: 318px;
     height: auto;
     background-color: #ECEEF1;
-    padding: 30px;
+    padding: 15px 30px 30px 30px;
     border-top-width: 0px;
     border-bottom: 1px;
     border-left: 1px;
@@ -45,6 +46,7 @@ h1 {
     font-size: 24px;
     font-weight: 400;
     color: rgb(76, 76, 76);
+    margin: 0px;
 }
 
 a {
